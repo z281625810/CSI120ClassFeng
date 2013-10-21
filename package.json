@@ -4,10 +4,7 @@
   "main": "web.js",
   "dependencies": {
     "express": "latest",
-    "ejs": "latest",
-    "mongoose": "latest",
-    "csv": "latest",
-	"Sentimental" : "latest"
+    "ejs": "latest"
   },
   "engines": {
     "node": "0.10.13",
